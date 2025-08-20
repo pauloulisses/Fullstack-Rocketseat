@@ -1,0 +1,35 @@
+@media screen {
+    h1 {
+        font-size: 2em;
+    }
+    p {
+        font-size: 1.2em;
+    }
+    button {
+        padding: 12px 24px;
+    }
+}
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 16px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+.btn-error {
+  border: 2px solid red;
+}
+
